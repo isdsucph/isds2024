@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/isds2024/post/assignment/</loc>
+    <loc>https://isdsucph.github.io/isds2024/post/assignment/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/post/install/</loc>
+    <loc>https://isdsucph.github.io/isds2024/post/install/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/post/jupyter/</loc>
+    <loc>https://isdsucph.github.io/isds2024/post/jupyter/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/post/exam/</loc>
+    <loc>https://isdsucph.github.io/isds2024/post/exam/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/</loc>
+    <loc>https://isdsucph.github.io/isds2024/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/post/</loc>
+    <loc>https://isdsucph.github.io/isds2024/post/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/page/</loc>
+    <loc>https://isdsucph.github.io/isds2024/page/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/page/timeplan/</loc>
+    <loc>https://isdsucph.github.io/isds2024/page/timeplan/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/page/readings/</loc>
+    <loc>https://isdsucph.github.io/isds2024/page/readings/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/page/practical/</loc>
+    <loc>https://isdsucph.github.io/isds2024/page/practical/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/backup/</loc>
+    <loc>https://isdsucph.github.io/isds2024/backup/</loc>
     <lastmod>2022-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/backup/timeplan/</loc>
+    <loc>https://isdsucph.github.io/isds2024/backup/timeplan/</loc>
     <lastmod>2022-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isds2024/categories/</loc>
+    <loc>https://isdsucph.github.io/isds2024/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/isds2024/tags/</loc>
+    <loc>https://isdsucph.github.io/isds2024/tags/</loc>
   </url>
 </urlset>

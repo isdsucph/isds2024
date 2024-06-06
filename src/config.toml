@@ -9,13 +9,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishDir = "../docs"
 
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Intro to Social Data Science 2024" # Set a different text for the header on the home page
+  homeTitle = "Intro to Social Data Science 2024"
   #subtitle = "A summer school by the Center for Social Data Science"
   logo = "img/ku_logo_uk_v.png"
   favicon = "img/favicon.ico"
@@ -34,6 +30,7 @@ publishDir = "../docs"
     name = "Welcome"
     url = ""
     weight = 1
+
 [[menu.main]]
     identifier = "posts"
     name = "Posts"
