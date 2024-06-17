@@ -9,6 +9,6 @@ This post contain practical information related to each of the three assignments
 
 **Assignment 0:** Available July 3. Deadline August 1 @ 12.00
 
-**Assignment 1:** Available August 6. Deadline August 8 @ 23.59
+**Assignment 1:** Available August 6. Deadline August 9 @ 23.59
 
 **Assignment 2:** Available August 13. Deadline August 16 @ 23.59

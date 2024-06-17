@@ -23,7 +23,7 @@ Materials will be added as the course progresses.
 |        |                               | -------   Preparation  -------                           |             |        |
 | Jul 03 |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2024/blob/main/assignments/assignment0/assignment_0.ipynb)  |
 | Aug 01 |                         12:00 | <font color="red">Assignment 0 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/73894/assignments)     |
-|        |                               | ---------   Week 1  ---------                            |             |        |
+<!-- |        |                               | ---------   Week 1  ---------                            |             |        |
 | Aug 05 |                          9-11 | 1a. Course welcome + intro to SDS                        | FC          |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_1/lecture_1.pdf) |
 |        |                         11-12 | 1b. Meet group                                           | FC/TAs      |        |
 |        |                         13-16 | 2. Data Structuring 1                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_exercises_sol.ipynb) |
@@ -38,7 +38,7 @@ Materials will be added as the course progresses.
 |        |                         13-15 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing),  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
 | Aug 09 |                          9-12 | Exam talk + TA help + Supervision                        |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/exam_talk/Exam_talk_1.ipynb), [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
 |        |                         13-15 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)        |
-| Aug 08 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/73894/assignments)   |
+| Aug 09 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/73894/assignments)   |
 |        |                               | ---------   Week 2  ---------                            |             |        |
 | Aug 12 |                          9-12 | 8. Scraping 3                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_exercises_sol.ipynb) |
 |        |                         13-15 | 9. Data Ethics                                           |     FC      |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_9/lecture_9.pdf) |
@@ -59,11 +59,12 @@ Materials will be added as the course progresses.
 | Aug 20 |                         20:00 | <font color="red">Exam project description due</font>    |             |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/exam/project_description.pdf), [abs](https://absalon.ku.dk/courses/73894/assignments) |
 | Aug 28 |                         10:00 | <font color="red"> Hand-in Exam on Digital Exam </font>  |             |        |
 
-`*` : optional participation
+`*` : optional participation -->
 
-#### Main lecturer
+#### Main lecturers
 
 - [Hjalte Fejerskov Boas (HFB)](https://www.hjalteboas.com/)
+- Andreas Bjerre-Nielsen
 
 #### Teaching assistants (TAs)
 
