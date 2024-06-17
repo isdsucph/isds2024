@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-date: 2023-06-24
+date: 2024-06-17
 weight: 3
 next: post/jupyter
 prev: post/assignment
@@ -68,7 +68,7 @@ This will launch a new browser window (or a new tab) showing a control panel sim
 
 #### Getting friendly with Jupyter
 
-Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor's keyboard shortcuts; see our post [here](/isds2023/post/jupyter/). The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
+Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor's keyboard shortcuts; see our post [here](/isds2024/post/jupyter/). The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
 
 > The key thing I emphasize to students is they should be using the mouse as little as possible. Every time you move your hands away from the keys, you're slowing yourself down.
 
@@ -84,11 +84,11 @@ If you are on Windows you can install [Github Desktop](https://desktop.github.co
 
 [Github](http://github.com) is a platform that facilitates collaboration on projects that use git. You can use it to host projects, publish them to the web, and share them with other people. [Create a free account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't already have one.
 
-Once you have an account, clone the [course repository](https://github.com/isdsucph/isds2023) using your local git client. This is most easily done on the command line as follows:
+Once you have an account, clone the [course repository](https://github.com/isdsucph/isds2024) using your local git client. This is most easily done on the command line as follows:
 
 ```
-    # git clone https://github.com/abjer/isds2023
-	Cloning into 'isds2023'...
+    # git clone https://github.com/abjer/isds2024
+	Cloning into 'isds2024'...
 	remote: Counting objects: 145, done.
 	remote: Compressing objects: 100% (98/98), done.
 	remote: Total 145 (delta 40), reused 137 (delta 37)
@@ -97,7 +97,7 @@ Once you have an account, clone the [course repository](https://github.com/isdsu
 	Checking connectivity... done.
 ```
 
-When this is complete, verify that you have a local directory called ``isds2023`` containing a ``README.md`` file.
+When this is complete, verify that you have a local directory called ``isds2024`` containing a ``README.md`` file.
 
 Afterwards you can subscribe to updates, small and big, by using `Watch` or `Star` within the GitHub page.
 

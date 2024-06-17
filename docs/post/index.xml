@@ -5,23 +5,34 @@
     <link>https://isdsucph.github.io/isds2024/post/</link>
     <description>Recent content in Posts on Intro to Social Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2024/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2024/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparation</title>
+      <link>https://isdsucph.github.io/isds2024/post/preparation/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://isdsucph.github.io/isds2024/post/preparation/</guid>
+      <description>Guide to preparations It is necessary that you plan enough time to prepare for the course. We expect that, depending on your prior experience, you have spent up to 50 hours on learning basic Python and pandas before we begin teaching. In particular you should do the following (prioritized order):
+Install anaconda and other software
+Open the Assignment 0 notebook. See this guide on how to open and use a notebook</description>
+    </item>
+    
     <item>
       <title>Assignments</title>
       <link>https://isdsucph.github.io/isds2024/post/assignment/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://isdsucph.github.io/isds2024/post/assignment/</guid>
       <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
-Assignment 0: Available June 28. Deadline July 27 @ 12.00
-Assignment 1: Available August 2. Deadline August 4 @ 23.59
-Assignment 2: Available August 8. Deadline August 11 @ 23.59</description>
+Assignment 0: Available July 3. Deadline August 1 @ 12.00
+Assignment 1: Available August 6. Deadline August 8 @ 23.59
+Assignment 2: Available August 13. Deadline August 16 @ 23.59</description>
     </item>
     
     <item>
       <title>Installation</title>
       <link>https://isdsucph.github.io/isds2024/post/install/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://isdsucph.github.io/isds2024/post/install/</guid>
       <description>This class will involve a lot of coding, for which you will need some basic tools.
@@ -32,7 +43,7 @@ Python, Jupyter Notebook and JupyterLab Python is a free programming language. W
     <item>
       <title>Useful Jupyter tips</title>
       <link>https://isdsucph.github.io/isds2024/post/jupyter/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://isdsucph.github.io/isds2024/post/jupyter/</guid>
       <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
@@ -43,10 +54,10 @@ enter edit mode: click inside the cell or press ENTR exit edit mode: click outsi
     <item>
       <title>Exam project</title>
       <link>https://isdsucph.github.io/isds2024/post/exam/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://isdsucph.github.io/isds2024/post/exam/</guid>
-      <description>When the teaching in our course finishes, you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 23, 2023, at 10 AM.
+      <description>When the teaching in our course finishes, you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 28, 2024, at 10 AM.
 In this blog post we want to expand a little bit on how a good project will look. The goal of the project is to pose an interesting question and attempt to answer it by collecting publicly available data.</description>
     </item>
     

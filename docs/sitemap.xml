@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://isdsucph.github.io/isds2024/post/preparation/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://isdsucph.github.io/isds2024/post/assignment/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/post/install/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/post/jupyter/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/post/exam/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
@@ -21,16 +24,16 @@
     <loc>https://isdsucph.github.io/isds2024/page/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://isdsucph.github.io/isds2024/post/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://isdsucph.github.io/isds2024/page/practical/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://isdsucph.github.io/isds2024/page/timeplan/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/page/readings/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://isdsucph.github.io/isds2024/post/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://isdsucph.github.io/isds2024/page/practical/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://isdsucph.github.io/isds2024/backup/</loc>

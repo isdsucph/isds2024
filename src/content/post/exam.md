@@ -1,12 +1,12 @@
 ---
 title: "Exam project"
-date: 2023-06-24
+date: 2024-06-17
 weight: 5
 prev: post/jupyter
 ---
 
 
-When the teaching in our course finishes, you are to **hand in a project**. The formal requirements are found [here](/isds2023/page/practical/) along with details on grading. The exam period runs until **August 23, 2023, at 10 AM**.
+When the teaching in our course finishes, you are to **hand in a project**. The formal requirements are found [here](/isds2024/page/practical/) along with details on grading. The exam period runs until **August 28, 2024, at 10 AM**.
 
 In this blog post we want to expand a little bit on how a good project will look. The goal of the project is to pose an interesting question and attempt to answer it by collecting publicly available data. Importantly, better grades are given to projects that collect/construct a data set independently (e.g. through API services or with the use of scraping).
 
