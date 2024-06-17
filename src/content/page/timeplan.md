@@ -1,9 +1,9 @@
 ---
 title: Timeplan
-date: 2024-06-06
+date: 2024-06-17
 ---
 
-This page contains a schedule of the teaching sessions. Most of the teaching will take place between July 31 and August 11, 2023, with additional supervision on August 15. Each day will generally contain one or two teaching sessions. Most sessions will follow the daily schedule below:
+This page contains a schedule of the teaching sessions. Most of the teaching will take place between July 31 and August 11, 2024, with additional supervision on August 15. Each day will generally contain one or two teaching sessions. Most sessions will follow the daily schedule below:
 
 - Morning session (9-12):
   - 9-10 Live lecture,
@@ -14,50 +14,50 @@ This page contains a schedule of the teaching sessions. Most of the teaching wil
   - 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises
 - Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below)
 
-The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above. See [practical information](/isds2023/page/practical/) for where lectures and exercise classes take place.
+The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above. See [practical information](/isds2024/page/practical/) for where lectures and exercise classes take place.
 
 Materials will be added as the course progresses.
 
 | Date   |                          Time | Title                                                   |  Teachers   | Material   |
 | ------ | ----------------------------: | -------------------------------------------------------- | :---------: | :--------- |
 |        |                               | -------   Preparation  -------                           |             |        |
-| Jun 28 (TEST) |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment0/assignment_0.ipynb)  |
-| Jul 27 |                         12:00 | <font color="red">Assignment 0 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/65412/assignments)     |
+| Jul 03 |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2024/blob/main/assignments/assignment0/assignment_0.ipynb)  |
+| Aug 01 |                         12:00 | <font color="red">Assignment 0 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/65412/assignments)     |
 |        |                               | ---------   Week 1  ---------                            |             |        |
-| Jul 31 |                          9-11 | 1a. Course welcome + intro to SDS                        | FC          |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_1/lecture_1.pdf) |
+| Aug 05 |                          9-11 | 1a. Course welcome + intro to SDS                        | FC          |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_1/lecture_1.pdf) |
 |        |                         11-12 | 1b. Meet group                                           | FC/TAs      |        |
-|        |                         13-16 | 2. Data Structuring 1                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_2/module_2_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_2/module_2_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_2/module_2_exercises_sol.ipynb) |
-| Aug 01 |                          9-12 | 3. Data Structuring 2                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_slides.ipynb), [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_exercises_sol.ipynb) |
-|        |                         13-16 | 4. Plotting                                              |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_slides.ipynb)   ,  [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_exercises_sol.ipynb) |
+|        |                         13-16 | 2. Data Structuring 1                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_2/module_2_exercises_sol.ipynb) |
+| Aug 06 |                          9-12 | 3. Data Structuring 2                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_3/module_3_slides.ipynb), [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_3/module_3_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_3/module_3_exercises_sol.ipynb) |
+|        |                         13-16 | 4. Plotting                                              |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_4/module_4_slides.ipynb)   ,  [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_4/module_4_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_4/module_4_exercises_sol.ipynb) |
 |        |                         16-17 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
-|        |                         23:59 | <font color="green">Assignment 1 posted</font>           |     --      | [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment1/assignment_1.ipynb)  |
-| Aug 02 |                          9-12 | 5. Strings, Queries and APIs                             |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_5/module_5_slides.ipynb) ,       [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_5/module_5_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_5/module_5_exercises_sol.ipynb)   |
-|        |                         13-16 | 6. Scraping 1                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_6/module_6_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_6/module_6_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_6/module_6_exercises_sol.ipynb) |
-| Aug 03 |                          9-12 | 7. Scraping 2                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_7/module_7_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_7/module_7_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_7/module_7_exercises_sol.ipynb) |
-|        |                         12:59 | <font color="red">Fill in supervision sheet</font>       |     --      | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing), [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
-|        |                         13-15 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing),  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
-| Aug 04 |                          9-12 | Exam talk + TA help + Supervision                        |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/exam_talk/Exam_talk_1.ipynb), [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
+|        |                         23:59 | <font color="green">Assignment 1 posted</font>           |     --      | [nb](https://github.com/isdsucph/isds2024/blob/main/assignments/assignment1/assignment_1.ipynb)  |
+| Aug 07 |                          9-12 | 5. Strings, Queries and APIs                             |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_5/module_5_slides.ipynb) ,       [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_5/module_5_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_5/module_5_exercises_sol.ipynb)   |
+|        |                         13-16 | 6. Scraping 1                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_6/module_6_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_6/module_6_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_6/module_6_exercises_sol.ipynb) |
+| Aug 08 |                          9-12 | 7. Scraping 2                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_7/module_7_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_7/module_7_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_7/module_7_exercises_sol.ipynb) |
+|        |                         12:59 | <font color="red">Fill in supervision sheet</font>       |     --      | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing), [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
+|        |                         13-15 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing),  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
+| Aug 09 |                          9-12 | Exam talk + TA help + Supervision                        |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/exam_talk/Exam_talk_1.ipynb), [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
 |        |                         13-15 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)        |
-| Aug 04 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/65412/assignments)   |
+| Aug 08 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/65412/assignments)   |
 |        |                               | ---------   Week 2  ---------                            |             |        |
-| Aug 07 |                          9-12 | 8. Scraping 3                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_8/module_8_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_8/module_8_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_8/module_8_exercises_sol.ipynb) |
-|        |                         13-15 | 9. Data Ethics                                           |     FC      |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_9/lecture_9.pdf) |
+| Aug 12 |                          9-12 | 8. Scraping 3                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_8/module_8_exercises_sol.ipynb) |
+|        |                         13-15 | 9. Data Ethics                                           |     FC      |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_9/lecture_9.pdf) |
 |        |                         15-16 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
-| Aug 08 |                          9-12 | 10. ML Introduction                                      |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_10/module_10_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_10/module_10_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_10/module_10_exercises_sol.ipynb) |
-|        |                         13-16 | 11. Regression and Regularization                        |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_11/module_11_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_11/module_11_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_11/module_11_exercises_sol.ipynb) |
-|        |                         23:59 | <font color="green">Assignment 2 posted</font>           |     --      |  [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment2/assignments_2.ipynb) |
-| Aug 09 |                          9-12 | 12. Model Selection and Cross-validation                 |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_12/module_12_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_12/module_12_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_12/module_12_exercises_sol.ipynb) |
-|        |                         13-16 | 13. Performance Metrics, Non-linear ML, and Perspectives |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_13/module_13_slides.ipynb) |
-| Aug 10 |                          9-12 | 14. Text as Data                                         |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_14/module_14_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_14/module_14_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_14/module_14_exercises_sol.ipynb) |
+| Aug 13 |                          9-12 | 10. ML Introduction                                      |  FC & TAs   | [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_10/module_10_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_10/module_10_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_10/module_10_exercises_sol.ipynb) |
+|        |                         13-16 | 11. Regression and Regularization                        |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_11/module_11_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_11/module_11_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_11/module_11_exercises_sol.ipynb) |
+|        |                         23:59 | <font color="green">Assignment 2 posted</font>           |     --      |  [nb](https://github.com/isdsucph/isds2024/blob/main/assignments/assignment2/assignments_2.ipynb) |
+| Aug 14 |                          9-12 | 12. Model Selection and Cross-validation                 |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_12/module_12_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_12/module_12_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_12/module_12_exercises_sol.ipynb) |
+|        |                         13-16 | 13. Performance Metrics, Non-linear ML, and Perspectives |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_13/module_13_slides.ipynb) |
+| Aug 15 |                          9-12 | 14. Text as Data                                         |  FC & TAs   |  [le](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_14/module_14_slides.ipynb),   [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_14/module_14_exercises.ipynb), [nb_sol](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/module_14/module_14_exercises_sol.ipynb) |
 |        |                         13-15 | TA help `*`                                              |     TAs     | All previous material   |
 |        |                         15-16 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
-| Aug 11 |                          9-12 | Exam talk + TA help  + Supervision                       |  FC & TAs   | [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/exam_talk/Exam_talk_2.ipynb)  |
+| Aug 16 |                          9-12 | Exam talk + TA help  + Supervision                       |  FC & TAs   | [nb](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/exam_talk/Exam_talk_2.ipynb)  |
 |        |                         13-15 | TA help + supervision `*`                                |     TAs     |  [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
 |        |                         23:59 | <font color="red">Assignment 2 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/65412/assignments)     |
 |        |                               | ---------   Week 3  ---------                            |             |        |
-| Aug 15 |                         10-12 | *Supervision 3* `*`                                      |      TAs    |  [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)         |
-| Aug 15 |                         20:00 | <font color="red">Exam project description due</font>    |             |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/exam/project_description.pdf), [abs](https://absalon.ku.dk/courses/65412/assignments) |
-| Aug 23 |                         10:00 | <font color="red"> Hand-in Exam on Digital Exam </font>  |             |        |
+| Aug 20 |                         10-12 | *Supervision 3* `*`                                      |      TAs    |  [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)         |
+| Aug 20 |                         20:00 | <font color="red">Exam project description due</font>    |             |  [pdf](https://github.com/isdsucph/isds2024/blob/main/teaching_materials/exam/project_description.pdf), [abs](https://absalon.ku.dk/courses/65412/assignments) |
+| Aug 28 |                         10:00 | <font color="red"> Hand-in Exam on Digital Exam </font>  |             |        |
 
 `*` : optional participation
 
@@ -67,7 +67,9 @@ Materials will be added as the course progresses.
 
 #### Teaching assistants (TAs)
 
-- TBA
+- Johan Kielgast Ladelund (JKL)
+- Mikkel Reich (MR)
+- Jonathan Wenzel Pedersen (JWP)
 
 #### Download material using Github Desktop
 
@@ -75,7 +77,7 @@ Materials will be added as the course progresses.
 
 - Open Github Desktop and go to `File -> Open Repository`
 
-- Go to the URL-tab and choose the course Github page (isdsucph/isds2023), and where you want to save it on your own computer.
+- Go to the URL-tab and choose the course Github page (isdsucph/isds2024), and where you want to save it on your own computer.
 
 - Now you can access the files on you own computer.
 
