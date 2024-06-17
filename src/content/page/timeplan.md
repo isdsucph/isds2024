@@ -21,7 +21,7 @@ Materials will be added as the course progresses.
 | Date   |                          Time | Title                                                   |  Teachers   | Material   |
 | ------ | ----------------------------: | -------------------------------------------------------- | :---------: | :--------- |
 |        |                               | -------   Preparation  -------                           |             |        |
-| Jun 28 |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment0/assignment_0.ipynb)  |
+| Jun 28 (TEST) |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment0/assignment_0.ipynb)  |
 | Jul 27 |                         12:00 | <font color="red">Assignment 0 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/65412/assignments)     |
 |        |                               | ---------   Week 1  ---------                            |             |        |
 | Jul 31 |                          9-11 | 1a. Course welcome + intro to SDS                        | FC          |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_1/lecture_1.pdf) |
