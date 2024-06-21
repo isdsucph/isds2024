@@ -25,7 +25,7 @@ It is necessary that you plan enough time to prepare for the course. We expect t
 ## Assignment 0
 
 In preparation for the course you are expected to hand in an assignment in Python before lectures begin. This assignment is intended to ensure that you all know enough basic Python when you begin the summer school.
-The assignment will be posted on Absalon on July 3 (will follow soon on GitHub as well), and must be **handed in via Absalon**. See the deadline in the [assignment post](/isds2024/post/assignment/).
+The assignment is available now on Absalon, and must be **handed in via Absalon**. See the deadline in the [assignment post](/isds2024/post/assignment/).
 
 The assignment is **individual**. You are welcome to discuss answers with others. The answers you provide in the assignment will be used to **place you into groups**, see [practical info](/isds2024/page/practical/) for details. Your
 group members will be randomly selected among those who performed approximately equally well on Assignment 0.
