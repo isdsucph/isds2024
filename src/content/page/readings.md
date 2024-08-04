@@ -45,7 +45,7 @@ We introduce the course and provide an overview of logistics. We also introduce 
 
 **Git - a tool for storing and sharing code**
 
-- Jones, Zachery. 2015. "[Git & Github tutorial](https://zmjones.com/git-github-tutorial/)".
+- GitHub. "[Git Guide](https://github.com/git-guides)".
 
 #### Inspirational reading `*`
 
